@@ -53,7 +53,11 @@ public class Ejercicio3 {
 		System.out.println("El cociente de y / n = "+(y/n));
 		//Muestro por pantalla el residuo de (y / n)
 		System.out.println("El residuo de y / n = "+(y%n));
-		
+		//Muestro por pantalla el doble de cada variable
+		System.out.println("El doble de x = "+(x*2));
+		System.out.println("El doble de y = "+(y*2));
+		System.out.println("El doble de m = "+(m*2));
+		System.out.println("El doble de n = "+(n*2));
 	}
 
 }
